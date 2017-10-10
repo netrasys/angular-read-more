@@ -35,11 +35,11 @@
     "package.json"
   ],
   "dependencies": {
-    "angular": "1.6.4",
-    "angular-animate": "1.6.4",
-    "angular-sanitize": "1.6.4"
+    "angular": "1.6.x",
+    "angular-animate": "1.6.x",
+    "angular-sanitize": "1.6.x"
   },
   "devDependencies": {
-    "angular-mocks": "1.6.4"
+    "angular-mocks": "1.6.x"
   }
 }
